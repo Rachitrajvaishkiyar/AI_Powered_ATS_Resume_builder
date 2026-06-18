@@ -1,0 +1,5 @@
+John Doe
+React Developer
+Email: john@example.com
+Skills: React, Node.js, AWS
+Experience: 5 years building web apps
